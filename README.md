@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Nurzhan 👋
 
-<!--
-**nurzhqn0/nurzhqn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Aspiring Software Engineer | 💻 Code Explorer | 🌱 Lifelong Learner** 
 
-Here are some ideas to get you started:
+Currently building awesome things with **Java, Spring Boot, Vue 3, and TypeScript**.  
+I'm passionate about crafting clean, scalable, and user-focused applications — from backend APIs to pixel-perfect interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+- 🎨 Frontend enthusiast with an eye for clean, user-friendly UI
+- 🌱 Currently learning advanced Java, Spring ecosystem, and system design
+- 🛠️ Regularly experimenting with new libraries and tech stacks
+- 🎯 Believer in lifelong learning, clean code, and meaningful collaboration
+
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_

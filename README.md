@@ -2,7 +2,7 @@
 
 **🚀 Aspiring Software Engineer | 💻 Code Explorer | 🌱 Lifelong Learner** 
 
-Currently building awesome things with **Java, Spring Boot, Vue 3, and TypeScript**.  
+Currently building awesome things with **Java, and TypeScript**.  
 I'm passionate about crafting clean, scalable, and user-focused applications — from backend APIs to pixel-perfect interfaces.
 
 👨‍💻 About Me
